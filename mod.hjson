@@ -4,3 +4,4 @@ author: "Pirojok3000"
 description: "Play mindustry with this awesome chiptune music! Tracks created by Roccow. I took some of Roccow's tracks that weren't in the classic version to replace the new ones added in the V6. HOWEVER, the author of the tracks boss1, boss2 and game6 is unknown."
 version: "V1"
 minGameVersion: "136"
+hidden: true
